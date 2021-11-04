@@ -1,1 +1,1 @@
-bot-de-banderas
+flags-discord

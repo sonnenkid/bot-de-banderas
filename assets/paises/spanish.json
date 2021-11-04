@@ -1,0 +1,3896 @@
+[
+    {
+        "nombre": {
+            "comun": "Afganistán",
+            "oficial": "República Islámica de Afganistán"
+        },
+        "capital": [
+            "Kabul"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia meridional",
+        "limites": [
+            "IRN",
+            "PAK",
+            "TKM",
+            "UZB",
+            "TJK",
+            "CHN"
+        ],
+        "superficie": 652230,
+        "bandera": "🇦🇫",
+        "cca2": "AF",
+        "cca3": "AFG"
+    },
+    {
+        "nombre": {
+            "comun": "Angola",
+            "oficial": "República de Angola"
+        },
+        "capital": [
+            "Luanda"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [
+            "COG",
+            "COD",
+            "ZMB",
+            "NAM"
+        ],
+        "superficie": 1246700,
+        "bandera": "🇦🇴",
+        "cca2": "AO",
+        "cca3": "AGO"
+    },
+    {
+        "nombre": {
+            "comun": "Albania",
+            "oficial": "República de Albania"
+        },
+        "capital": [
+            "Tirana"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "MNE",
+            "GRC",
+            "MKD",
+            "UNK"
+        ],
+        "superficie": 28748,
+        "bandera": "🇦🇱",
+        "cca2": "AL",
+        "cca3": "ALB"
+    },
+    {
+        "nombre": {
+            "comun": "Andorra",
+            "oficial": "Principado de Andorra"
+        },
+        "capital": [
+            "Andorra la Vieja"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "FRA",
+            "ESP"
+        ],
+        "superficie": 468,
+        "bandera": "🇦🇩",
+        "cca2": "AD",
+        "cca3": "AND"
+    },
+    {
+        "nombre": {
+            "comun": "Emiratos Árabes Unidos",
+            "oficial": "Emiratos Árabes Unidos"
+        },
+        "capital": [
+            "Abu Dabi"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "OMN",
+            "SAU"
+        ],
+        "superficie": 83600,
+        "bandera": "🇦🇪",
+        "cca2": "AE",
+        "cca3": "ARE"
+    },
+    {
+        "nombre": {
+            "comun": "Argentina",
+            "oficial": "República Argentina"
+        },
+        "capital": [
+            "Buenos Aires"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "PRY",
+            "URY"
+        ],
+        "superficie": 2780400,
+        "bandera": "🇦🇷",
+        "cca2": "AR",
+        "cca3": "ARG"
+    },
+    {
+        "nombre": {
+            "comun": "Armenia",
+            "oficial": "República de Armenia"
+        },
+        "capital": [
+            "Erevan"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "AZE",
+            "GEO",
+            "IRN",
+            "TUR"
+        ],
+        "superficie": 29743,
+        "bandera": "🇦🇲",
+        "cca2": "AM",
+        "cca3": "ARM"
+    },
+    {
+        "nombre": {
+            "comun": "Antigua y Barbuda",
+            "oficial": "Antigua y Barbuda"
+        },
+        "capital": [
+            "Saint John"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 442,
+        "bandera": "🇦🇬",
+        "cca2": "AG",
+        "cca3": "ATG"
+    },
+    {
+        "nombre": {
+            "comun": "Australia",
+            "oficial": "Mancomunidad de Australia"
+        },
+        "capital": [
+            "Canberra"
+        ],
+        "continente": "Oceania",
+        "subregion": "Australasia",
+        "limites": [],
+        "superficie": 7692024,
+        "bandera": "🇦🇺",
+        "cca2": "AU",
+        "cca3": "AUS"
+    },
+    {
+        "nombre": {
+            "comun": "Austria",
+            "oficial": "República de Austria"
+        },
+        "capital": [
+            "Europa"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa occidental",
+        "limites": [
+            "CZE",
+            "DEU",
+            "HUN",
+            "ITA",
+            "LIE",
+            "SVK",
+            "SVN",
+            "CHE"
+        ],
+        "superficie": 83871,
+        "bandera": "🇦🇹",
+        "cca2": "AT",
+        "cca3": "AUT"
+    },
+    {
+        "nombre": {
+            "comun": "Azerbaiyán",
+            "oficial": "República de Azerbaiyán"
+        },
+        "capital": [
+            "Baku"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "ARM",
+            "GEO",
+            "IRN",
+            "RUS",
+            "TUR"
+        ],
+        "superficie": 86600,
+        "bandera": "🇦🇿",
+        "cca2": "AZ",
+        "cca3": "AZE"
+    },
+    {
+        "nombre": {
+            "comun": "Burundi",
+            "oficial": "República de Burundi"
+        },
+        "capital": [
+            "Gitega"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "COD",
+            "RWA",
+            "TZA"
+        ],
+        "superficie": 27834,
+        "bandera": "🇧🇮",
+        "cca2": "BI",
+        "cca3": "BDI"
+    },
+    {
+        "nombre": {
+            "comun": "Bélgica",
+            "oficial": "Reino de Bélgica"
+        },
+        "capital": [
+            "Bruselas"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa occidental",
+        "limites": [
+            "FRA",
+            "DEU",
+            "LUX",
+            "NLD"
+        ],
+        "superficie": 30528,
+        "bandera": "🇧🇪",
+        "cca2": "BE",
+        "cca3": "BEL"
+    },
+    {
+        "nombre": {
+            "comun": "Benín",
+            "oficial": "República de Benin"
+        },
+        "capital": [
+            "Porto Novo"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "BFA",
+            "NER",
+            "NGA",
+            "TGO"
+        ],
+        "superficie": 112622,
+        "bandera": "🇧🇯",
+        "cca2": "BJ",
+        "cca3": "BEN"
+    },
+    {
+        "nombre": {
+            "comun": "Burkina Faso",
+            "oficial": "Burkina Faso"
+        },
+        "capital": [
+            "Uagadugu"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "BEN",
+            "CIV",
+            "GHA",
+            "MLI",
+            "NER",
+            "TGO"
+        ],
+        "superficie": 272967,
+        "bandera": "🇧🇫",
+        "cca2": "BF",
+        "cca3": "BFA"
+    },
+    {
+        "nombre": {
+            "comun": "Bangladesh",
+            "oficial": "República Popular de Bangladesh"
+        },
+        "capital": [
+            "Daca"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia meridional",
+        "limites": [
+            "MMR",
+            "IND"
+        ],
+        "superficie": 147570,
+        "bandera": "🇧🇩",
+        "cca2": "BD",
+        "cca3": "BGD"
+    },
+    {
+        "nombre": {
+            "comun": "Bulgaria",
+            "oficial": "República de Bulgaria"
+        },
+        "capital": [
+            "Sofia"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [
+            "GRC",
+            "MKD",
+            "ROU",
+            "SRB",
+            "TUR"
+        ],
+        "superficie": 110879,
+        "bandera": "🇧🇬",
+        "cca2": "BG",
+        "cca3": "BGR"
+    },
+    {
+        "nombre": {
+            "comun": "Bahrein",
+            "oficial": "Reino de Bahrein"
+        },
+        "capital": [
+            "Manama"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [],
+        "superficie": 765,
+        "bandera": "🇧🇭",
+        "cca2": "BH",
+        "cca3": "BHR"
+    },
+    {
+        "nombre": {
+            "comun": "Bahamas",
+            "oficial": "Commonwealth de las Bahamas"
+        },
+        "capital": [
+            "Nasau"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 13943,
+        "bandera": "🇧🇸",
+        "cca2": "BS",
+        "cca3": "BHS"
+    },
+    {
+        "nombre": {
+            "comun": "Bosnia y Herzegovina",
+            "oficial": "Bosnia y Herzegovina"
+        },
+        "capital": [
+            "Sarajevo"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "HRV",
+            "MNE",
+            "SRB"
+        ],
+        "superficie": 51209,
+        "bandera": "🇧🇦",
+        "cca2": "BA",
+        "cca3": "BIH"
+    },
+    {
+        "nombre": {
+            "comun": "Bielorrusia",
+            "oficial": "República de Belarús"
+        },
+        "capital": [
+            "Minsk"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [
+            "LVA",
+            "LTU",
+            "POL",
+            "RUS",
+            "UKR"
+        ],
+        "superficie": 207600,
+        "bandera": "🇧🇾",
+        "cca2": "BY",
+        "cca3": "BLR"
+    },
+    {
+        "nombre": {
+            "comun": "Belice",
+            "oficial": "Belice"
+        },
+        "capital": [
+            "Belmopan"
+        ],
+        "continente": "América",
+        "subregion": "Centroamérica",
+        "limites": [
+            "GTM",
+            "MEX"
+        ],
+        "superficie": 22966,
+        "bandera": "🇧🇿",
+        "cca2": "BZ",
+        "cca3": "BLZ"
+    },
+    {
+        "nombre": {
+            "comun": "Bolivia",
+            "oficial": "Estado Plurinacional de Bolivia"
+        },
+        "capital": [
+            "La Paz"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "ARG",
+            "BRA",
+            "CHL",
+            "PRY",
+            "PER"
+        ],
+        "superficie": 1098581,
+        "bandera": "🇧🇴",
+        "cca2": "BO",
+        "cca3": "BOL"
+    },
+    {
+        "nombre": {
+            "comun": "Brasil",
+            "oficial": "República Federativa del Brasil"
+        },
+        "capital": [
+            "Brasilia"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "ARG",
+            "BOL",
+            "COL",
+            "GUF",
+            "GUY",
+            "PRY",
+            "PER",
+            "SUR",
+            "URY",
+            "VEN"
+        ],
+        "superficie": 8515767,
+        "bandera": "🇧🇷",
+        "cca2": "BR",
+        "cca3": "BRA"
+    },
+    {
+        "nombre": {
+            "comun": "Barbados",
+            "oficial": "Barbados"
+        },
+        "capital": [
+            "Bridgetown"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 430,
+        "bandera": "🇧🇧",
+        "cca2": "BB",
+        "cca3": "BRB"
+    },
+    {
+        "nombre": {
+            "comun": "Brunei",
+            "oficial": "Nación de Brunei, Morada de la Paz"
+        },
+        "capital": [
+            "Bandar Seri Begawan"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [
+            "MYS"
+        ],
+        "superficie": 5765,
+        "bandera": "🇧🇳",
+        "cca2": "BN",
+        "cca3": "BRN"
+    },
+    {
+        "nombre": {
+            "comun": "Bután",
+            "oficial": "Reino de Bután"
+        },
+        "capital": [
+            "Timbu"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia meridional",
+        "limites": [
+            "CHN",
+            "IND"
+        ],
+        "superficie": 38394,
+        "bandera": "🇧🇹",
+        "cca2": "BT",
+        "cca3": "BTN"
+    },
+    {
+        "nombre": {
+            "comun": "Botswana",
+            "oficial": "República de Botswana"
+        },
+        "capital": [
+            "Gaborone"
+        ],
+        "continente": "África",
+        "subregion": "África meridional",
+        "limites": [
+            "NAM",
+            "ZAF",
+            "ZMB",
+            "ZWE"
+        ],
+        "superficie": 582000,
+        "bandera": "🇧🇼",
+        "cca2": "BW",
+        "cca3": "BWA"
+    },
+    {
+        "nombre": {
+            "comun": "República Centroafricana",
+            "oficial": "República Centroafricana"
+        },
+        "capital": [
+            "Bangui"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [
+            "CMR",
+            "TCD",
+            "COD",
+            "COG",
+            "SSD",
+            "SDN"
+        ],
+        "superficie": 622984,
+        "bandera": "🇨🇫",
+        "cca2": "CF",
+        "cca3": "CAF"
+    },
+    {
+        "nombre": {
+            "comun": "Canadá",
+            "oficial": "Canadá"
+        },
+        "capital": [
+            "Ottawa"
+        ],
+        "continente": "América",
+        "subregion": "Norteamérica",
+        "limites": [
+            "USA"
+        ],
+        "superficie": 9984670,
+        "bandera": "🇨🇦",
+        "cca2": "CA",
+        "cca3": "CAN"
+    },
+    {
+        "nombre": {
+            "comun": "Suiza",
+            "oficial": "Confederación Suiza"
+        },
+        "capital": [
+            "Berna"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa occidental",
+        "limites": [
+            "AUT",
+            "FRA",
+            "ITA",
+            "LIE",
+            "DEU"
+        ],
+        "superficie": 41284,
+        "bandera": "🇨🇭",
+        "cca2": "CH",
+        "cca3": "CHE"
+    },
+    {
+        "nombre": {
+            "comun": "Chile",
+            "oficial": "República de Chile"
+        },
+        "capital": [
+            "Santiago"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "ARG",
+            "BOL",
+            "PER"
+        ],
+        "superficie": 756102,
+        "bandera": "🇨🇱",
+        "cca2": "CL",
+        "cca3": "CHL"
+    },
+    {
+        "nombre": {
+            "comun": "China",
+            "oficial": "República Popular de China"
+        },
+        "capital": [
+            "Pekin"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia oriental",
+        "limites": [
+            "AFG",
+            "BTN",
+            "MMR",
+            "HKG",
+            "IND",
+            "KAZ",
+            "NPL",
+            "PRK",
+            "KGZ",
+            "LAO",
+            "MAC",
+            "MNG",
+            "PAK",
+            "RUS",
+            "TJK",
+            "VNM"
+        ],
+        "superficie": 9706961,
+        "bandera": "🇨🇳",
+        "cca2": "CN",
+        "cca3": "CHN"
+    },
+    {
+        "nombre": {
+            "comun": "Costa de Marfil",
+            "oficial": "República de Côte d'Ivoire"
+        },
+        "capital": [
+            "Yamusukro"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "BFA",
+            "GHA",
+            "GIN",
+            "LBR",
+            "MLI"
+        ],
+        "superficie": 322463,
+        "bandera": "🇨🇮",
+        "cca2": "CI",
+        "cca3": "CIV"
+    },
+    {
+        "nombre": {
+            "comun": "Camerún",
+            "oficial": "República de Camerún"
+        },
+        "capital": [
+            "Yaunde"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [
+            "CAF",
+            "TCD",
+            "COG",
+            "GNQ",
+            "GAB",
+            "NGA"
+        ],
+        "superficie": 475442,
+        "bandera": "🇨🇲",
+        "cca2": "CM",
+        "cca3": "CMR"
+    },
+    {
+        "nombre": {
+            "comun": "Congo (Rep. Dem.)",
+            "oficial": "República Democrática del Congo"
+        },
+        "capital": [
+            "Kinshasa"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [
+            "AGO",
+            "BDI",
+            "CAF",
+            "COG",
+            "RWA",
+            "SSD",
+            "TZA",
+            "UGA",
+            "ZMB"
+        ],
+        "superficie": 2344858,
+        "bandera": "🇨🇩",
+        "cca2": "CD",
+        "cca3": "COD"
+    },
+    {
+        "nombre": {
+            "comun": "Congo",
+            "oficial": "República del Congo"
+        },
+        "capital": [
+            "Brazzaville"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [
+            "AGO",
+            "CMR",
+            "CAF",
+            "COD",
+            "GAB"
+        ],
+        "superficie": 342000,
+        "bandera": "🇨🇬",
+        "cca2": "CG",
+        "cca3": "COG"
+    },
+    {
+        "nombre": {
+            "comun": "Colombia",
+            "oficial": "República de Colombia"
+        },
+        "capital": [
+            "Bogota"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "BRA",
+            "ECU",
+            "PAN",
+            "PER",
+            "VEN"
+        ],
+        "superficie": 1141748,
+        "bandera": "🇨🇴",
+        "cca2": "CO",
+        "cca3": "COL"
+    },
+    {
+        "nombre": {
+            "comun": "Comoras",
+            "oficial": "Unión de las Comoras"
+        },
+        "capital": [
+            "Moroni"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [],
+        "superficie": 1862,
+        "bandera": "🇰🇲",
+        "cca2": "KM",
+        "cca3": "COM"
+    },
+    {
+        "nombre": {
+            "comun": "Cabo Verde",
+            "oficial": "República de Cabo Verde"
+        },
+        "capital": [
+            "Praia"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [],
+        "superficie": 4033,
+        "bandera": "🇨🇻",
+        "cca2": "CV",
+        "cca3": "CPV"
+    },
+    {
+        "nombre": {
+            "comun": "Costa Rica",
+            "oficial": "República de Costa Rica"
+        },
+        "capital": [
+            "San Jose"
+        ],
+        "continente": "América",
+        "subregion": "Centroamérica",
+        "limites": [
+            "NIC",
+            "PAN"
+        ],
+        "superficie": 51100,
+        "bandera": "🇨🇷",
+        "cca2": "CR",
+        "cca3": "CRI"
+    },
+    {
+        "nombre": {
+            "comun": "Cuba",
+            "oficial": "República de Cuba"
+        },
+        "capital": [
+            "La Habana"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 109884,
+        "bandera": "🇨🇺",
+        "cca2": "CU",
+        "cca3": "CUB"
+    },
+    {
+        "nombre": {
+            "comun": "Chipre",
+            "oficial": "República de Chipre"
+        },
+        "capital": [
+            "Nicosia"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [],
+        "superficie": 9251,
+        "bandera": "🇨🇾",
+        "cca2": "CY",
+        "cca3": "CYP"
+    },
+    {
+        "nombre": {
+            "comun": "República Checa",
+            "oficial": "República Checa"
+        },
+        "capital": [
+            "Praga"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [
+            "AUT",
+            "DEU",
+            "POL",
+            "SVK"
+        ],
+        "superficie": 78865,
+        "bandera": "🇨🇿",
+        "cca2": "CZ",
+        "cca3": "CZE"
+    },
+    {
+        "nombre": {
+            "comun": "Alemania",
+            "oficial": "República Federal de Alemania"
+        },
+        "capital": [
+            "Berlin"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa occidental",
+        "limites": [
+            "AUT",
+            "BEL",
+            "CZE",
+            "DNK",
+            "FRA",
+            "LUX",
+            "NLD",
+            "POL",
+            "CHE"
+        ],
+        "superficie": 357114,
+        "bandera": "🇩🇪",
+        "cca2": "DE",
+        "cca3": "DEU"
+    },
+    {
+        "nombre": {
+            "comun": "Djibouti",
+            "oficial": "República de Djibouti"
+        },
+        "capital": [
+            "Yibuti"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "ERI",
+            "ETH",
+            "SOM"
+        ],
+        "superficie": 23200,
+        "bandera": "🇩🇯",
+        "cca2": "DJ",
+        "cca3": "DJI"
+    },
+    {
+        "nombre": {
+            "comun": "Dominica",
+            "oficial": "Mancomunidad de Dominica"
+        },
+        "capital": [
+            "Roseau"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 751,
+        "bandera": "🇩🇲",
+        "cca2": "DM",
+        "cca3": "DMA"
+    },
+    {
+        "nombre": {
+            "comun": "Dinamarca",
+            "oficial": "Reino de Dinamarca"
+        },
+        "capital": [
+            "Copenague"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [
+            "DEU"
+        ],
+        "superficie": 43094,
+        "bandera": "🇩🇰",
+        "cca2": "DK",
+        "cca3": "DNK"
+    },
+    {
+        "nombre": {
+            "comun": "República Dominicana",
+            "oficial": "República Dominicana"
+        },
+        "capital": [
+            "Santo Domingo"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [
+            "HTI"
+        ],
+        "superficie": 48671,
+        "bandera": "🇩🇴",
+        "cca2": "DO",
+        "cca3": "DOM"
+    },
+    {
+        "nombre": {
+            "comun": "Argelia",
+            "oficial": "República Argelina Democrática y Popular"
+        },
+        "capital": [
+            "Argel"
+        ],
+        "continente": "África",
+        "subregion": "África del Norte",
+        "limites": [
+            "TUN",
+            "LBY",
+            "NER",
+            "ESH",
+            "MRT",
+            "MLI",
+            "MAR"
+        ],
+        "superficie": 2381741,
+        "bandera": "🇩🇿",
+        "cca2": "DZ",
+        "cca3": "DZA"
+    },
+    {
+        "nombre": {
+            "comun": "Ecuador",
+            "oficial": "República del Ecuador"
+        },
+        "capital": [
+            "Quito"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "COL",
+            "PER"
+        ],
+        "superficie": 276841,
+        "bandera": "🇪🇨",
+        "cca2": "EC",
+        "cca3": "ECU"
+    },
+    {
+        "nombre": {
+            "comun": "Egipto",
+            "oficial": "República Árabe de Egipto"
+        },
+        "capital": [
+            "El Cairo"
+        ],
+        "continente": "África",
+        "subregion": "África del Norte",
+        "limites": [
+            "ISR",
+            "LBY",
+            "PSE",
+            "SDN"
+        ],
+        "superficie": 1002450,
+        "bandera": "🇪🇬",
+        "cca2": "EG",
+        "cca3": "EGY"
+    },
+    {
+        "nombre": {
+            "comun": "Eritrea",
+            "oficial": "Estado de Eritrea"
+        },
+        "capital": [
+            "Asmara"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "DJI",
+            "ETH",
+            "SDN"
+        ],
+        "superficie": 117600,
+        "bandera": "🇪🇷",
+        "cca2": "ER",
+        "cca3": "ERI"
+    },
+    {
+        "nombre": {
+            "comun": "España",
+            "oficial": "Reino de España"
+        },
+        "capital": [
+            "Madrid"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "AND",
+            "FRA",
+            "GIB",
+            "PRT",
+            "MAR"
+        ],
+        "superficie": 505992,
+        "bandera": "🇪🇸",
+        "cca2": "ES",
+        "cca3": "ESP"
+    },
+    {
+        "nombre": {
+            "comun": "Estonia",
+            "oficial": "República de Estonia"
+        },
+        "capital": [
+            "Tallin"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [
+            "LVA",
+            "RUS"
+        ],
+        "superficie": 45227,
+        "bandera": "🇪🇪",
+        "cca2": "EE",
+        "cca3": "EST"
+    },
+    {
+        "nombre": {
+            "comun": "Etiopía",
+            "oficial": "República Democrática Federal de Etiopía"
+        },
+        "capital": [
+            "Adis Abeba"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "DJI",
+            "ERI",
+            "KEN",
+            "SOM",
+            "SSD",
+            "SDN"
+        ],
+        "superficie": 1104300,
+        "bandera": "🇪🇹",
+        "cca2": "ET",
+        "cca3": "ETH"
+    },
+    {
+        "nombre": {
+            "comun": "Finlandia",
+            "oficial": "República de Finlandia"
+        },
+        "capital": [
+            "Helsinki"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [
+            "NOR",
+            "SWE",
+            "RUS"
+        ],
+        "superficie": 338424,
+        "bandera": "🇫🇮",
+        "cca2": "FI",
+        "cca3": "FIN"
+    },
+    {
+        "nombre": {
+            "comun": "Fiyi",
+            "oficial": "República de Fiji"
+        },
+        "capital": [
+            "Suva"
+        ],
+        "continente": "Oceania",
+        "subregion": "Melanesia",
+        "limites": [],
+        "superficie": 18272,
+        "bandera": "🇫🇯",
+        "cca2": "FJ",
+        "cca3": "FJI"
+    },
+    {
+        "nombre": {
+            "comun": "Francia",
+            "oficial": "República francés"
+        },
+        "capital": [
+            "Paris"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa occidental",
+        "limites": [
+            "AND",
+            "BEL",
+            "DEU",
+            "ITA",
+            "LUX",
+            "MCO",
+            "ESP",
+            "CHE"
+        ],
+        "superficie": 551695,
+        "bandera": "🇫🇷",
+        "cca2": "FR",
+        "cca3": "FRA"
+    },
+    {
+        "nombre": {
+            "comun": "Micronesia",
+            "oficial": "Estados Federados de Micronesia"
+        },
+        "capital": [
+            "Palikir"
+        ],
+        "continente": "Oceania",
+        "subregion": "Micronesia",
+        "limites": [],
+        "superficie": 702,
+        "bandera": "🇫🇲",
+        "cca2": "FM",
+        "cca3": "FSM"
+    },
+    {
+        "nombre": {
+            "comun": "Gabón",
+            "oficial": "República de Gabón"
+        },
+        "capital": [
+            "Libreville"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [
+            "CMR",
+            "COG",
+            "GNQ"
+        ],
+        "superficie": 267668,
+        "bandera": "🇬🇦",
+        "cca2": "GA",
+        "cca3": "GAB"
+    },
+    {
+        "nombre": {
+            "comun": "Reino Unido",
+            "oficial": "Reino Unido de Gran Bretaña e Irlanda del Norte"
+        },
+        "capital": [
+            "Londres"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [
+            "IRL"
+        ],
+        "superficie": 242900,
+        "bandera": "🇬🇧",
+        "cca2": "GB",
+        "cca3": "GBR"
+    },
+    {
+        "nombre": {
+            "comun": "Georgia",
+            "oficial": "Georgia"
+        },
+        "capital": [
+            "Tiflis"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "ARM",
+            "AZE",
+            "RUS",
+            "TUR"
+        ],
+        "superficie": 69700,
+        "bandera": "🇬🇪",
+        "cca2": "GE",
+        "cca3": "GEO"
+    },
+    {
+        "nombre": {
+            "comun": "Ghana",
+            "oficial": "República de Ghana"
+        },
+        "capital": [
+            "Accra"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "BFA",
+            "CIV",
+            "TGO"
+        ],
+        "superficie": 238533,
+        "bandera": "🇬🇭",
+        "cca2": "GH",
+        "cca3": "GHA"
+    },
+    {
+        "nombre": {
+            "comun": "Guinea",
+            "oficial": "República de Guinea"
+        },
+        "capital": [
+            "Conakri"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "CIV",
+            "GNB",
+            "LBR",
+            "MLI",
+            "SEN",
+            "SLE"
+        ],
+        "superficie": 245857,
+        "bandera": "🇬🇳",
+        "cca2": "GN",
+        "cca3": "GIN"
+    },
+    {
+        "nombre": {
+            "comun": "Gambia",
+            "oficial": "República de Gambia"
+        },
+        "capital": [
+            "Banjul"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "SEN"
+        ],
+        "superficie": 10689,
+        "bandera": "🇬🇲",
+        "cca2": "GM",
+        "cca3": "GMB"
+    },
+    {
+        "nombre": {
+            "comun": "Guinea-Bisáu",
+            "oficial": "República de Guinea-Bissau"
+        },
+        "capital": [
+            "Bissau"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "GIN",
+            "SEN"
+        ],
+        "superficie": 36125,
+        "bandera": "🇬🇼",
+        "cca2": "GW",
+        "cca3": "GNB"
+    },
+    {
+        "nombre": {
+            "comun": "Guinea Ecuatorial",
+            "oficial": "República de Guinea Ecuatorial"
+        },
+        "capital": [
+            "Malabo"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [
+            "CMR",
+            "GAB"
+        ],
+        "superficie": 28051,
+        "bandera": "🇬🇶",
+        "cca2": "GQ",
+        "cca3": "GNQ"
+    },
+    {
+        "nombre": {
+            "comun": "Grecia",
+            "oficial": "República Helénica"
+        },
+        "capital": [
+            "Atenas"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "ALB",
+            "BGR",
+            "TUR",
+            "MKD"
+        ],
+        "superficie": 131990,
+        "bandera": "🇬🇷",
+        "cca2": "GR",
+        "cca3": "GRC"
+    },
+    {
+        "nombre": {
+            "comun": "Grenada",
+            "oficial": "Granada"
+        },
+        "capital": [
+            "Saint George"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 344,
+        "bandera": "🇬🇩",
+        "cca2": "GD",
+        "cca3": "GRD"
+    },
+    {
+        "nombre": {
+            "comun": "Guatemala",
+            "oficial": "República de Guatemala"
+        },
+        "capital": [
+            "Guatemala"
+        ],
+        "continente": "América",
+        "subregion": "Centroamérica",
+        "limites": [
+            "BLZ",
+            "SLV",
+            "HND",
+            "MEX"
+        ],
+        "superficie": 108889,
+        "bandera": "🇬🇹",
+        "cca2": "GT",
+        "cca3": "GTM"
+    },
+    {
+        "nombre": {
+            "comun": "Guyana",
+            "oficial": "República Cooperativa de Guyana"
+        },
+        "capital": [
+            "Georgetown"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "BRA",
+            "SUR",
+            "VEN"
+        ],
+        "superficie": 214969,
+        "bandera": "🇬🇾",
+        "cca2": "GY",
+        "cca3": "GUY"
+    },
+    {
+        "nombre": {
+            "comun": "Honduras",
+            "oficial": "República de Honduras"
+        },
+        "capital": [
+            "Tegucigalpa"
+        ],
+        "continente": "América",
+        "subregion": "Centroamérica",
+        "limites": [
+            "GTM",
+            "SLV",
+            "NIC"
+        ],
+        "superficie": 112492,
+        "bandera": "🇭🇳",
+        "cca2": "HN",
+        "cca3": "HND"
+    },
+    {
+        "nombre": {
+            "comun": "Croacia",
+            "oficial": "República de Croacia"
+        },
+        "capital": [
+            "Zagreb"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "BIH",
+            "HUN",
+            "MNE",
+            "SRB",
+            "SVN"
+        ],
+        "superficie": 56594,
+        "bandera": "🇭🇷",
+        "cca2": "HR",
+        "cca3": "HRV"
+    },
+    {
+        "nombre": {
+            "comun": "Haití",
+            "oficial": "República de Haití"
+        },
+        "capital": [
+            "Puerto Principe"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [
+            "DOM"
+        ],
+        "superficie": 27750,
+        "bandera": "🇭🇹",
+        "cca2": "HT",
+        "cca3": "HTI"
+    },
+    {
+        "nombre": {
+            "comun": "Hungría",
+            "oficial": "Hungría"
+        },
+        "capital": [
+            "Budapest"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [
+            "AUT",
+            "HRV",
+            "ROU",
+            "SRB",
+            "SVK",
+            "SVN",
+            "UKR"
+        ],
+        "superficie": 93028,
+        "bandera": "🇭🇺",
+        "cca2": "HU",
+        "cca3": "HUN"
+    },
+    {
+        "nombre": {
+            "comun": "Indonesia",
+            "oficial": "República de Indonesia"
+        },
+        "capital": [
+            "Yakarta"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [
+            "TLS",
+            "MYS",
+            "PNG"
+        ],
+        "superficie": 1904569,
+        "bandera": "🇮🇩",
+        "cca2": "ID",
+        "cca3": "IDN"
+    },
+    {
+        "nombre": {
+            "comun": "India",
+            "oficial": "República de la India"
+        },
+        "capital": [
+            "Nueva Delhi"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia meridional",
+        "limites": [
+            "BGD",
+            "BTN",
+            "MMR",
+            "CHN",
+            "NPL",
+            "PAK"
+        ],
+        "superficie": 3287590,
+        "bandera": "🇮🇳",
+        "cca2": "IN",
+        "cca3": "IND"
+    },
+    {
+        "nombre": {
+            "comun": "Irlanda",
+            "oficial": "República de Irlanda"
+        },
+        "capital": [
+            "Dublin"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [
+            "GBR"
+        ],
+        "superficie": 70273,
+        "bandera": "🇮🇪",
+        "cca2": "IE",
+        "cca3": "IRL"
+    },
+    {
+        "nombre": {
+            "comun": "Iran",
+            "oficial": "República Islámica de Irán"
+        },
+        "capital": [
+            "Teheran"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia meridional",
+        "limites": [
+            "AFG",
+            "ARM",
+            "AZE",
+            "IRQ",
+            "PAK",
+            "TUR",
+            "TKM"
+        ],
+        "superficie": 1648195,
+        "bandera": "🇮🇷",
+        "cca2": "IR",
+        "cca3": "IRN"
+    },
+    {
+        "nombre": {
+            "comun": "Irak",
+            "oficial": "República de Irak"
+        },
+        "capital": [
+            "Bagdad"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "IRN",
+            "JOR",
+            "KWT",
+            "SAU",
+            "SYR",
+            "TUR"
+        ],
+        "superficie": 438317,
+        "bandera": "🇮🇶",
+        "cca2": "IQ",
+        "cca3": "IRQ"
+    },
+    {
+        "nombre": {
+            "comun": "Islandia",
+            "oficial": "Islandia"
+        },
+        "capital": [
+            "Reikiavik"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [],
+        "superficie": 103000,
+        "bandera": "🇮🇸",
+        "cca2": "IS",
+        "cca3": "ISL"
+    },
+    {
+        "nombre": {
+            "comun": "Israel",
+            "oficial": "Estado de Israel"
+        },
+        "capital": [
+            "Tel Aviv"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "EGY",
+            "JOR",
+            "LBN",
+            "PSE",
+            "SYR"
+        ],
+        "superficie": 20770,
+        "bandera": "🇮🇱",
+        "cca2": "IL",
+        "cca3": "ISR"
+    },
+    {
+        "nombre": {
+            "comun": "Italia",
+            "oficial": "República Italiana"
+        },
+        "capital": [
+            "Roma"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "AUT",
+            "FRA",
+            "SMR",
+            "SVN",
+            "CHE",
+            "VAT"
+        ],
+        "superficie": 301336,
+        "bandera": "🇮🇹",
+        "cca2": "IT",
+        "cca3": "ITA"
+    },
+    {
+        "nombre": {
+            "comun": "Jamaica",
+            "oficial": "Jamaica"
+        },
+        "capital": [
+            "Kingston"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 10991,
+        "bandera": "🇯🇲",
+        "cca2": "JM",
+        "cca3": "JAM"
+    },
+    {
+        "nombre": {
+            "comun": "Jordania",
+            "oficial": "Reino Hachemita de Jordania"
+        },
+        "capital": [
+            "Aman"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "IRQ",
+            "ISR",
+            "PSE",
+            "SAU",
+            "SYR"
+        ],
+        "superficie": 89342,
+        "bandera": "🇯🇴",
+        "cca2": "JO",
+        "cca3": "JOR"
+    },
+    {
+        "nombre": {
+            "comun": "Japón",
+            "oficial": "Japón"
+        },
+        "capital": [
+            "Tokyo"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia oriental",
+        "limites": [],
+        "superficie": 377930,
+        "bandera": "🇯🇵",
+        "cca2": "JP",
+        "cca3": "JPN"
+    },
+    {
+        "nombre": {
+            "comun": "Kazajistán",
+            "oficial": "República de Kazajstán"
+        },
+        "capital": [
+            "Astana"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia central",
+        "limites": [
+            "CHN",
+            "KGZ",
+            "RUS",
+            "TKM",
+            "UZB"
+        ],
+        "superficie": 2724900,
+        "bandera": "🇰🇿",
+        "cca2": "KZ",
+        "cca3": "KAZ"
+    },
+    {
+        "nombre": {
+            "comun": "Kenia",
+            "oficial": "República de Kenya"
+        },
+        "capital": [
+            "Nairobi"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "ETH",
+            "SOM",
+            "SSD",
+            "TZA",
+            "UGA"
+        ],
+        "superficie": 580367,
+        "bandera": "🇰🇪",
+        "cca2": "KE",
+        "cca3": "KEN"
+    },
+    {
+        "nombre": {
+            "comun": "Kirguizistán",
+            "oficial": "República Kirguisa"
+        },
+        "capital": [
+            "Biskek"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia central",
+        "limites": [
+            "CHN",
+            "KAZ",
+            "TJK",
+            "UZB"
+        ],
+        "superficie": 199951,
+        "bandera": "🇰🇬",
+        "cca2": "KG",
+        "cca3": "KGZ"
+    },
+    {
+        "nombre": {
+            "comun": "Camboya",
+            "oficial": "Reino de Camboya"
+        },
+        "capital": [
+            "Nom Pen"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [
+            "LAO",
+            "THA",
+            "VNM"
+        ],
+        "superficie": 181035,
+        "bandera": "🇰🇭",
+        "cca2": "KH",
+        "cca3": "KHM"
+    },
+    {
+        "nombre": {
+            "comun": "Kiribati",
+            "oficial": "República Independiente y Soberano de Kiribati"
+        },
+        "capital": [
+            "Tarawa"
+        ],
+        "continente": "Oceania",
+        "subregion": "Micronesia",
+        "limites": [],
+        "superficie": 811,
+        "bandera": "🇰🇮",
+        "cca2": "KI",
+        "cca3": "KIR"
+    },
+    {
+        "nombre": {
+            "comun": "San Cristóbal y Nieves",
+            "oficial": "Federación de San Cristóbal y Nevis"
+        },
+        "capital": [
+            "Basseterre"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 261,
+        "bandera": "🇰🇳",
+        "cca2": "KN",
+        "cca3": "KNA"
+    },
+    {
+        "nombre": {
+            "comun": "Corea del Sur",
+            "oficial": "República de Corea"
+        },
+        "capital": [
+            "Seul"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia oriental",
+        "limites": [
+            "PRK"
+        ],
+        "superficie": 100210,
+        "bandera": "🇰🇷",
+        "cca2": "KR",
+        "cca3": "KOR"
+    },
+    {
+        "nombre": {
+            "comun": "Kuwait",
+            "oficial": "Estado de Kuwait"
+        },
+        "capital": [
+            "Kuwait"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "IRQ",
+            "SAU"
+        ],
+        "superficie": 17818,
+        "bandera": "🇰🇼",
+        "cca2": "KW",
+        "cca3": "KWT"
+    },
+    {
+        "nombre": {
+            "comun": "Laos",
+            "oficial": "República Democrática Popular Lao"
+        },
+        "capital": [
+            "Vientian"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [
+            "MMR",
+            "KHM",
+            "CHN",
+            "THA",
+            "VNM"
+        ],
+        "superficie": 236800,
+        "bandera": "🇱🇦",
+        "cca2": "LA",
+        "cca3": "LAO"
+    },
+    {
+        "nombre": {
+            "comun": "Líbano",
+            "oficial": "República Libanesa"
+        },
+        "capital": [
+            "Beirut"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "ISR",
+            "SYR"
+        ],
+        "superficie": 10452,
+        "bandera": "🇱🇧",
+        "cca2": "LB",
+        "cca3": "LBN"
+    },
+    {
+        "nombre": {
+            "comun": "Liberia",
+            "oficial": "República de Liberia"
+        },
+        "capital": [
+            "Monrovia"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "GIN",
+            "CIV",
+            "SLE"
+        ],
+        "superficie": 111369,
+        "bandera": "🇱🇷",
+        "cca2": "LR",
+        "cca3": "LBR"
+    },
+    {
+        "nombre": {
+            "comun": "Libia",
+            "oficial": "Estado de Libia"
+        },
+        "capital": [
+            "Tripoli"
+        ],
+        "continente": "África",
+        "subregion": "África del Norte",
+        "limites": [
+            "DZA",
+            "TCD",
+            "EGY",
+            "NER",
+            "SDN",
+            "TUN"
+        ],
+        "superficie": 1759540,
+        "bandera": "🇱🇾",
+        "cca2": "LY",
+        "cca3": "LBY"
+    },
+    {
+        "nombre": {
+            "comun": "Santa Lucía",
+            "oficial": "Santa Lucía"
+        },
+        "capital": [
+            "Castries"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 616,
+        "bandera": "🇱🇨",
+        "cca2": "LC",
+        "cca3": "LCA"
+    },
+    {
+        "nombre": {
+            "comun": "Liechtenstein",
+            "oficial": "Principado de Liechtenstein"
+        },
+        "capital": [
+            "Vaduz"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa occidental",
+        "limites": [
+            "AUT",
+            "CHE"
+        ],
+        "superficie": 160,
+        "bandera": "🇱🇮",
+        "cca2": "LI",
+        "cca3": "LIE"
+    },
+    {
+        "nombre": {
+            "comun": "Sri Lanka",
+            "oficial": "República Democrática Socialista de Sri Lanka"
+        },
+        "capital": [
+            "Colombo"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia meridional",
+        "limites": [
+            "IND"
+        ],
+        "superficie": 65610,
+        "bandera": "🇱🇰",
+        "cca2": "LK",
+        "cca3": "LKA"
+    },
+    {
+        "nombre": {
+            "comun": "Lesotho",
+            "oficial": "Reino de Lesotho"
+        },
+        "capital": [
+            "Maseru"
+        ],
+        "continente": "África",
+        "subregion": "África meridional",
+        "limites": [
+            "ZAF"
+        ],
+        "superficie": 30355,
+        "bandera": "🇱🇸",
+        "cca2": "LS",
+        "cca3": "LSO"
+    },
+    {
+        "nombre": {
+            "comun": "Lituania",
+            "oficial": "República de Lituania"
+        },
+        "capital": [
+            "Vilna"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [
+            "BLR",
+            "LVA",
+            "POL",
+            "RUS"
+        ],
+        "superficie": 65300,
+        "bandera": "🇱🇹",
+        "cca2": "LT",
+        "cca3": "LTU"
+    },
+    {
+        "nombre": {
+            "comun": "Luxemburgo",
+            "oficial": "Gran Ducado de Luxemburgo"
+        },
+        "capital": [
+            "Luxemburgo"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa occidental",
+        "limites": [
+            "BEL",
+            "FRA",
+            "DEU"
+        ],
+        "superficie": 2586,
+        "bandera": "🇱🇺",
+        "cca2": "LU",
+        "cca3": "LUX"
+    },
+    {
+        "nombre": {
+            "comun": "Letonia",
+            "oficial": "República de Letonia"
+        },
+        "capital": [
+            "Riga"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [
+            "BLR",
+            "EST",
+            "LTU",
+            "RUS"
+        ],
+        "superficie": 64559,
+        "bandera": "🇱🇻",
+        "cca2": "LV",
+        "cca3": "LVA"
+    },
+    {
+        "nombre": {
+            "comun": "Marruecos",
+            "oficial": "Reino de Marruecos"
+        },
+        "capital": [
+            "Rabat"
+        ],
+        "continente": "África",
+        "subregion": "África del Norte",
+        "limites": [
+            "DZA",
+            "ESH",
+            "ESP"
+        ],
+        "superficie": 446550,
+        "bandera": "🇲🇦",
+        "cca2": "MA",
+        "cca3": "MAR"
+    },
+    {
+        "nombre": {
+            "comun": "Mónaco",
+            "oficial": "Principado de Mónaco"
+        },
+        "capital": [
+            "Monaco"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa occidental",
+        "limites": [
+            "FRA"
+        ],
+        "superficie": 2.02,
+        "bandera": "🇲🇨",
+        "cca2": "MC",
+        "cca3": "MCO"
+    },
+    {
+        "nombre": {
+            "comun": "Moldavia",
+            "oficial": "República de Moldova"
+        },
+        "capital": [
+            "Chisinau"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [
+            "ROU",
+            "UKR"
+        ],
+        "superficie": 33846,
+        "bandera": "🇲🇩",
+        "cca2": "MD",
+        "cca3": "MDA"
+    },
+    {
+        "nombre": {
+            "comun": "Madagascar",
+            "oficial": "República de Madagascar"
+        },
+        "capital": [
+            "Antananarivo"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [],
+        "superficie": 587041,
+        "bandera": "🇲🇬",
+        "cca2": "MG",
+        "cca3": "MDG"
+    },
+    {
+        "nombre": {
+            "comun": "Maldivas",
+            "oficial": "República de las Maldivas"
+        },
+        "capital": [
+            "Male"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia meridional",
+        "limites": [],
+        "superficie": 300,
+        "bandera": "🇲🇻",
+        "cca2": "MV",
+        "cca3": "MDV"
+    },
+    {
+        "nombre": {
+            "comun": "México",
+            "oficial": "Estados Unidos Mexicanos"
+        },
+        "capital": [
+            "Mexico DF"
+        ],
+        "continente": "América",
+        "subregion": "Norteamérica",
+        "limites": [
+            "BLZ",
+            "GTM",
+            "USA"
+        ],
+        "superficie": 1964375,
+        "bandera": "🇲🇽",
+        "cca2": "MX",
+        "cca3": "MEX"
+    },
+    {
+        "nombre": {
+            "comun": "Islas Marshall",
+            "oficial": "República de las Islas Marshall"
+        },
+        "capital": [
+            "Majuro"
+        ],
+        "continente": "Oceania",
+        "subregion": "Micronesia",
+        "limites": [],
+        "superficie": 181,
+        "bandera": "🇲🇭",
+        "cca2": "MH",
+        "cca3": "MHL"
+    },
+    {
+        "nombre": {
+            "comun": "Macedonia del Norte",
+            "oficial": "República de Macedonia del Norte"
+        },
+        "capital": [
+            "Skopie"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "ALB",
+            "BGR",
+            "GRC",
+            "UNK",
+            "SRB"
+        ],
+        "superficie": 25713,
+        "bandera": "🇲🇰",
+        "cca2": "MK",
+        "cca3": "MKD"
+    },
+    {
+        "nombre": {
+            "comun": "Mali",
+            "oficial": "República de Malí"
+        },
+        "capital": [
+            "Bamako"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "DZA",
+            "BFA",
+            "GIN",
+            "CIV",
+            "MRT",
+            "NER",
+            "SEN"
+        ],
+        "superficie": 1240192,
+        "bandera": "🇲🇱",
+        "cca2": "ML",
+        "cca3": "MLI"
+    },
+    {
+        "nombre": {
+            "comun": "Malta",
+            "oficial": "República de Malta"
+        },
+        "capital": [
+            "La Valetta"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [],
+        "superficie": 316,
+        "bandera": "🇲🇹",
+        "cca2": "MT",
+        "cca3": "MLT"
+    },
+    {
+        "nombre": {
+            "comun": "Myanmar",
+            "oficial": "República de la Unión de Myanmar"
+        },
+        "capital": [
+            "Naipyido"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [
+            "BGD",
+            "CHN",
+            "IND",
+            "LAO",
+            "THA"
+        ],
+        "superficie": 676578,
+        "bandera": "🇲🇲",
+        "cca2": "MM",
+        "cca3": "MMR"
+    },
+    {
+        "nombre": {
+            "comun": "Montenegro",
+            "oficial": "Montenegro"
+        },
+        "capital": [
+            "Podgorica"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "ALB",
+            "BIH",
+            "HRV",
+            "UNK",
+            "SRB"
+        ],
+        "superficie": 13812,
+        "bandera": "🇲🇪",
+        "cca2": "ME",
+        "cca3": "MNE"
+    },
+    {
+        "nombre": {
+            "comun": "Mongolia",
+            "oficial": "Mongolia"
+        },
+        "capital": [
+            "Ulan Bator"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia oriental",
+        "limites": [
+            "CHN",
+            "RUS"
+        ],
+        "superficie": 1564110,
+        "bandera": "🇲🇳",
+        "cca2": "MN",
+        "cca3": "MNG"
+    },
+    {
+        "nombre": {
+            "comun": "Mozambique",
+            "oficial": "República de Mozambique"
+        },
+        "capital": [
+            "Maputo"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "MWI",
+            "ZAF",
+            "SWZ",
+            "TZA",
+            "ZMB",
+            "ZWE"
+        ],
+        "superficie": 801590,
+        "bandera": "🇲🇿",
+        "cca2": "MZ",
+        "cca3": "MOZ"
+    },
+    {
+        "nombre": {
+            "comun": "Mauritania",
+            "oficial": "República Islámica de Mauritania"
+        },
+        "capital": [
+            "Nuakchot"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "DZA",
+            "MLI",
+            "SEN",
+            "ESH"
+        ],
+        "superficie": 1030700,
+        "bandera": "🇲🇷",
+        "cca2": "MR",
+        "cca3": "MRT"
+    },
+    {
+        "nombre": {
+            "comun": "Mauricio",
+            "oficial": "República de Mauricio"
+        },
+        "capital": [
+            "Port Louis"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [],
+        "superficie": 2040,
+        "bandera": "🇲🇺",
+        "cca2": "MU",
+        "cca3": "MUS"
+    },
+    {
+        "nombre": {
+            "comun": "Malawi",
+            "oficial": "República de Malawi"
+        },
+        "capital": [
+            "Lilongüe"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "MOZ",
+            "TZA",
+            "ZMB"
+        ],
+        "superficie": 118484,
+        "bandera": "🇲🇼",
+        "cca2": "MW",
+        "cca3": "MWI"
+    },
+    {
+        "nombre": {
+            "comun": "Malasia",
+            "oficial": "Malasia"
+        },
+        "capital": [
+            "Kuala Lumpur"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [
+            "BRN",
+            "IDN",
+            "THA"
+        ],
+        "superficie": 330803,
+        "bandera": "🇲🇾",
+        "cca2": "MY",
+        "cca3": "MYS"
+    },
+    {
+        "nombre": {
+            "comun": "Namibia",
+            "oficial": "República de Namibia"
+        },
+        "capital": [
+            "Windhoek"
+        ],
+        "continente": "África",
+        "subregion": "África meridional",
+        "limites": [
+            "AGO",
+            "BWA",
+            "ZAF",
+            "ZMB"
+        ],
+        "superficie": 825615,
+        "bandera": "🇳🇦",
+        "cca2": "NA",
+        "cca3": "NAM"
+    },
+    {
+        "nombre": {
+            "comun": "Níger",
+            "oficial": "República de Níger"
+        },
+        "capital": [
+            "Niamey"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "DZA",
+            "BEN",
+            "BFA",
+            "TCD",
+            "LBY",
+            "MLI",
+            "NGA"
+        ],
+        "superficie": 1267000,
+        "bandera": "🇳🇪",
+        "cca2": "NE",
+        "cca3": "NER"
+    },
+    {
+        "nombre": {
+            "comun": "Nigeria",
+            "oficial": "República Federal de Nigeria"
+        },
+        "capital": [
+            "Abuja"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "BEN",
+            "CMR",
+            "TCD",
+            "NER"
+        ],
+        "superficie": 923768,
+        "bandera": "🇳🇬",
+        "cca2": "NG",
+        "cca3": "NGA"
+    },
+    {
+        "nombre": {
+            "comun": "Nicaragua",
+            "oficial": "República de Nicaragua"
+        },
+        "capital": [
+            "Managua"
+        ],
+        "continente": "América",
+        "subregion": "Centroamérica",
+        "limites": [
+            "CRI",
+            "HND"
+        ],
+        "superficie": 130373,
+        "bandera": "🇳🇮",
+        "cca2": "NI",
+        "cca3": "NIC"
+    },
+    {
+        "nombre": {
+            "comun": "Países Bajos",
+            "oficial": "Países Bajos"
+        },
+        "capital": [
+            "Amsterdam"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa occidental",
+        "limites": [
+            "BEL",
+            "DEU"
+        ],
+        "superficie": 41850,
+        "bandera": "🇳🇱",
+        "cca2": "NL",
+        "cca3": "NLD"
+    },
+    {
+        "nombre": {
+            "comun": "Noruega",
+            "oficial": "Reino de Noruega"
+        },
+        "capital": [
+            "Oslo"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [
+            "FIN",
+            "SWE",
+            "RUS"
+        ],
+        "superficie": 323802,
+        "bandera": "🇳🇴",
+        "cca2": "NO",
+        "cca3": "NOR"
+    },
+    {
+        "nombre": {
+            "comun": "Nepal",
+            "oficial": "República Democrática Federal de Nepal"
+        },
+        "capital": [
+            "Katmandu"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia meridional",
+        "limites": [
+            "CHN",
+            "IND"
+        ],
+        "superficie": 147181,
+        "bandera": "🇳🇵",
+        "cca2": "NP",
+        "cca3": "NPL"
+    },
+    {
+        "nombre": {
+            "comun": "Nauru",
+            "oficial": "República de Nauru"
+        },
+        "capital": [
+            "Yaren"
+        ],
+        "continente": "Oceania",
+        "subregion": "Micronesia",
+        "limites": [],
+        "superficie": 21,
+        "bandera": "🇳🇷",
+        "cca2": "NR",
+        "cca3": "NRU"
+    },
+    {
+        "nombre": {
+            "comun": "Nueva Zelanda",
+            "oficial": "Nueva Zelanda"
+        },
+        "capital": [
+            "Wellington"
+        ],
+        "continente": "Oceania",
+        "subregion": "Australasia",
+        "limites": [],
+        "superficie": 270467,
+        "bandera": "🇳🇿",
+        "cca2": "NZ",
+        "cca3": "NZL"
+    },
+    {
+        "nombre": {
+            "comun": "Omán",
+            "oficial": "Sultanato de Omán"
+        },
+        "capital": [
+            "Mascate"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "SAU",
+            "ARE",
+            "YEM"
+        ],
+        "superficie": 309500,
+        "bandera": "🇴🇲",
+        "cca2": "OM",
+        "cca3": "OMN"
+    },
+    {
+        "nombre": {
+            "comun": "Pakistán",
+            "oficial": "República Islámica de Pakistán"
+        },
+        "capital": [
+            "Islamabad"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia meridional",
+        "limites": [
+            "AFG",
+            "CHN",
+            "IND",
+            "IRN"
+        ],
+        "superficie": 881912,
+        "bandera": "🇵🇰",
+        "cca2": "PK",
+        "cca3": "PAK"
+    },
+    {
+        "nombre": {
+            "comun": "Panamá",
+            "oficial": "República de Panamá"
+        },
+        "capital": [
+            "Panama"
+        ],
+        "continente": "América",
+        "subregion": "Centroamérica",
+        "limites": [
+            "COL",
+            "CRI"
+        ],
+        "superficie": 75417,
+        "bandera": "🇵🇦",
+        "cca2": "PA",
+        "cca3": "PAN"
+    },
+    {
+        "nombre": {
+            "comun": "Perú",
+            "oficial": "República de Perú"
+        },
+        "capital": [
+            "Lima"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "COL",
+            "ECU"
+        ],
+        "superficie": 1285216,
+        "bandera": "🇵🇪",
+        "cca2": "PE",
+        "cca3": "PER"
+    },
+    {
+        "nombre": {
+            "comun": "Filipinas",
+            "oficial": "República de las Filipinas"
+        },
+        "capital": [
+            "Manila"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [],
+        "superficie": 342353,
+        "bandera": "🇵🇭",
+        "cca2": "PH",
+        "cca3": "PHL"
+    },
+    {
+        "nombre": {
+            "comun": "Palau",
+            "oficial": "República de Palau"
+        },
+        "capital": [
+            "Melekeok"
+        ],
+        "continente": "Oceania",
+        "subregion": "Micronesia",
+        "limites": [],
+        "superficie": 459,
+        "bandera": "🇵🇼",
+        "cca2": "PW",
+        "cca3": "PLW"
+    },
+    {
+        "nombre": {
+            "comun": "Papúa Nueva Guinea",
+            "oficial": "Estado Independiente de Papúa Nueva Guinea"
+        },
+        "capital": [
+            "Port Moresby"
+        ],
+        "continente": "Oceania",
+        "subregion": "Melanesia",
+        "limites": [
+            "IDN"
+        ],
+        "superficie": 462840,
+        "bandera": "🇵🇬",
+        "cca2": "PG",
+        "cca3": "PNG"
+    },
+    {
+        "nombre": {
+            "comun": "Polonia",
+            "oficial": "República de Polonia"
+        },
+        "capital": [
+            "Varsovia"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [
+            "BLR",
+            "CZE",
+            "DEU",
+            "LTU",
+            "RUS",
+            "SVK",
+            "UKR"
+        ],
+        "superficie": 312679,
+        "bandera": "🇵🇱",
+        "cca2": "PL",
+        "cca3": "POL"
+    },
+    {
+        "nombre": {
+            "comun": "Corea del Norte",
+            "oficial": "República Popular Democrática de Corea"
+        },
+        "capital": [
+            "Pionyang"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia oriental",
+        "limites": [
+            "CHN",
+            "KOR",
+            "RUS"
+        ],
+        "superficie": 120538,
+        "bandera": "🇰🇵",
+        "cca2": "KP",
+        "cca3": "PRK"
+    },
+    {
+        "nombre": {
+            "comun": "Portugal",
+            "oficial": "República Portuguesa"
+        },
+        "capital": [
+            "Lisboa"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "ESP"
+        ],
+        "superficie": 92090,
+        "bandera": "🇵🇹",
+        "cca2": "PT",
+        "cca3": "PRT"
+    },
+    {
+        "nombre": {
+            "comun": "Paraguay",
+            "oficial": "República de Paraguay"
+        },
+        "capital": [
+            "Asuncion"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "ARG",
+            "BOL",
+            "BRA"
+        ],
+        "superficie": 406752,
+        "bandera": "🇵🇾",
+        "cca2": "PY",
+        "cca3": "PRY"
+    },
+    {
+        "nombre": {
+            "comun": "Catar",
+            "oficial": "Estado de Qatar"
+        },
+        "capital": [
+            "Doha"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "SAU"
+        ],
+        "superficie": 11586,
+        "bandera": "🇶🇦",
+        "cca2": "QA",
+        "cca3": "QAT"
+    },
+    {
+        "nombre": {
+            "comun": "Rumania",
+            "oficial": "Rumania"
+        },
+        "capital": [
+            "Bucarest"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [
+            "BGR",
+            "HUN",
+            "MDA",
+            "SRB",
+            "UKR"
+        ],
+        "superficie": 238391,
+        "bandera": "🇷🇴",
+        "cca2": "RO",
+        "cca3": "ROU"
+    },
+    {
+        "nombre": {
+            "comun": "Rusia",
+            "oficial": "Federación de Rusia"
+        },
+        "capital": [
+            "Moscu"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [
+            "AZE",
+            "BLR",
+            "CHN",
+            "EST",
+            "FIN",
+            "GEO",
+            "KAZ",
+            "PRK",
+            "LVA",
+            "LTU",
+            "MNG",
+            "NOR",
+            "POL",
+            "UKR"
+        ],
+        "superficie": 17098242,
+        "bandera": "🇷🇺",
+        "cca2": "RU",
+        "cca3": "RUS"
+    },
+    {
+        "nombre": {
+            "comun": "Ruanda",
+            "oficial": "República de Rwanda"
+        },
+        "capital": [
+            "Kigali"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "BDI",
+            "COD",
+            "TZA",
+            "UGA"
+        ],
+        "superficie": 26338,
+        "bandera": "🇷🇼",
+        "cca2": "RW",
+        "cca3": "RWA"
+    },
+    {
+        "nombre": {
+            "comun": "Arabia Saudí",
+            "oficial": "Reino de Arabia Saudita"
+        },
+        "capital": [
+            "Riad"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "IRQ",
+            "JOR",
+            "KWT",
+            "OMN",
+            "QAT",
+            "ARE",
+            "YEM"
+        ],
+        "superficie": 2149690,
+        "bandera": "🇸🇦",
+        "cca2": "SA",
+        "cca3": "SAU"
+    },
+    {
+        "nombre": {
+            "comun": "Sudán",
+            "oficial": "República de Sudán"
+        },
+        "capital": [
+            "Jartum"
+        ],
+        "continente": "África",
+        "subregion": "África del Norte",
+        "limites": [
+            "CAF",
+            "TCD",
+            "EGY",
+            "ERI",
+            "ETH",
+            "LBY",
+            "SSD"
+        ],
+        "superficie": 1886068,
+        "bandera": "🇸🇩",
+        "cca2": "SD",
+        "cca3": "SDN"
+    },
+    {
+        "nombre": {
+            "comun": "Senegal",
+            "oficial": "República de Senegal"
+        },
+        "capital": [
+            "Dakar"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "GMB",
+            "GIN",
+            "GNB",
+            "MLI",
+            "MRT"
+        ],
+        "superficie": 196722,
+        "bandera": "🇸🇳",
+        "cca2": "SN",
+        "cca3": "SEN"
+    },
+    {
+        "nombre": {
+            "comun": "Singapur",
+            "oficial": "República de Singapur"
+        },
+        "capital": [
+            "Singapur"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [],
+        "superficie": 710,
+        "bandera": "🇸🇬",
+        "cca2": "SG",
+        "cca3": "SGP"
+    },
+    {
+        "nombre": {
+            "comun": "Islas Salomón",
+            "oficial": "Islas Salomón"
+        },
+        "capital": [
+            "Honiara"
+        ],
+        "continente": "Oceania",
+        "subregion": "Melanesia",
+        "limites": [],
+        "superficie": 28896,
+        "bandera": "🇸🇧",
+        "cca2": "SB",
+        "cca3": "SLB"
+    },
+    {
+        "nombre": {
+            "comun": "Sierra Leone",
+            "oficial": "República de Sierra Leona"
+        },
+        "capital": [
+            "Freetown"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "GIN",
+            "LBR"
+        ],
+        "superficie": 71740,
+        "bandera": "🇸🇱",
+        "cca2": "SL",
+        "cca3": "SLE"
+    },
+    {
+        "nombre": {
+            "comun": "El Salvador",
+            "oficial": "República de El Salvador"
+        },
+        "capital": [
+            "San Salvador"
+        ],
+        "continente": "América",
+        "subregion": "Centroamérica",
+        "limites": [
+            "GTM",
+            "HND"
+        ],
+        "superficie": 21041,
+        "bandera": "🇸🇻",
+        "cca2": "SV",
+        "cca3": "SLV"
+    },
+    {
+        "nombre": {
+            "comun": "San Marino",
+            "oficial": "Serenísima República de San Marino"
+        },
+        "capital": [
+            "San Marino"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "ITA"
+        ],
+        "superficie": 61,
+        "bandera": "🇸🇲",
+        "cca2": "SM",
+        "cca3": "SMR"
+    },
+    {
+        "nombre": {
+            "comun": "Somalia",
+            "oficial": "República Federal de Somalia"
+        },
+        "capital": [
+            "Mogadiscio"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "DJI",
+            "ETH",
+            "KEN"
+        ],
+        "superficie": 637657,
+        "bandera": "🇸🇴",
+        "cca2": "SO",
+        "cca3": "SOM"
+    },
+    {
+        "nombre": {
+            "comun": "Serbia",
+            "oficial": "República de Serbia"
+        },
+        "capital": [
+            "Belgrado"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "BIH",
+            "BGR",
+            "HRV",
+            "HUN",
+            "UNK",
+            "MKD",
+            "MNE",
+            "ROU"
+        ],
+        "superficie": 88361,
+        "bandera": "🇷🇸",
+        "cca2": "RS",
+        "cca3": "SRB"
+    },
+    {
+        "nombre": {
+            "comun": "Sudán del Sur",
+            "oficial": "República de Sudán del Sur"
+        },
+        "capital": [
+            "Yuba"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [
+            "CAF",
+            "COD",
+            "ETH",
+            "KEN",
+            "SDN",
+            "UGA"
+        ],
+        "superficie": 619745,
+        "bandera": "🇸🇸",
+        "cca2": "SS",
+        "cca3": "SSD"
+    },
+    {
+        "nombre": {
+            "comun": "Santo Tomé y Príncipe",
+            "oficial": "República Democrática de Santo Tomé y Príncipe"
+        },
+        "capital": [
+            "Santo Tome"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [],
+        "superficie": 964,
+        "bandera": "🇸🇹",
+        "cca2": "ST",
+        "cca3": "STP"
+    },
+    {
+        "nombre": {
+            "comun": "Surinam",
+            "oficial": "República de Suriname"
+        },
+        "capital": [
+            "Paramaribo"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "BRA",
+            "GUF",
+            "GUY"
+        ],
+        "superficie": 163820,
+        "bandera": "🇸🇷",
+        "cca2": "SR",
+        "cca3": "SUR"
+    },
+    {
+        "nombre": {
+            "comun": "Eslovaquia",
+            "oficial": "República Eslovaca"
+        },
+        "capital": [
+            "Bratislava"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa central",
+        "limites": [
+            "AUT",
+            "CZE",
+            "HUN",
+            "POL",
+            "UKR"
+        ],
+        "superficie": 49037,
+        "bandera": "🇸🇰",
+        "cca2": "SK",
+        "cca3": "SVK"
+    },
+    {
+        "nombre": {
+            "comun": "Eslovenia",
+            "oficial": "República de Eslovenia"
+        },
+        "capital": [
+            "Liubliana"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "AUT",
+            "HRV",
+            "ITA",
+            "HUN"
+        ],
+        "superficie": 20273,
+        "bandera": "🇸🇮",
+        "cca2": "SI",
+        "cca3": "SVN"
+    },
+    {
+        "nombre": {
+            "comun": "Suecia",
+            "oficial": "Reino de Suecia"
+        },
+        "capital": [
+            "Estocolmo"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa septentrional",
+        "limites": [
+            "FIN",
+            "NOR"
+        ],
+        "superficie": 450295,
+        "bandera": "🇸🇪",
+        "cca2": "SE",
+        "cca3": "SWE"
+    },
+    {
+        "nombre": {
+            "comun": "Suazilandia",
+            "oficial": "Reino de eSwatini"
+        },
+        "capital": [
+            "Mbabane"
+        ],
+        "continente": "África",
+        "subregion": "África meridional",
+        "limites": [
+            "MOZ",
+            "ZAF"
+        ],
+        "superficie": 17364,
+        "bandera": "🇸🇿",
+        "cca2": "SZ",
+        "cca3": "SWZ"
+    },
+    {
+        "nombre": {
+            "comun": "Seychelles",
+            "oficial": "República de las Seychelles"
+        },
+        "capital": [
+            "Victoria"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [],
+        "superficie": 452,
+        "bandera": "🇸🇨",
+        "cca2": "SC",
+        "cca3": "SYC"
+    },
+    {
+        "nombre": {
+            "comun": "Siria",
+            "oficial": "República Árabe Siria"
+        },
+        "capital": [
+            "Damasco"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "IRQ",
+            "ISR",
+            "JOR",
+            "LBN",
+            "TUR"
+        ],
+        "superficie": 185180,
+        "bandera": "🇸🇾",
+        "cca2": "SY",
+        "cca3": "SYR"
+    },
+    {
+        "nombre": {
+            "comun": "Chad",
+            "oficial": "República de Chad"
+        },
+        "capital": [
+            "Yamena"
+        ],
+        "continente": "África",
+        "subregion": "África central",
+        "limites": [
+            "CMR",
+            "CAF",
+            "LBY",
+            "NER",
+            "NGA",
+            "SDN"
+        ],
+        "superficie": 1284000,
+        "bandera": "🇹🇩",
+        "cca2": "TD",
+        "cca3": "TCD"
+    },
+    {
+        "nombre": {
+            "comun": "Togo",
+            "oficial": "República de Togo"
+        },
+        "capital": [
+            "Lome"
+        ],
+        "continente": "África",
+        "subregion": "África occidental",
+        "limites": [
+            "BEN",
+            "BFA",
+            "GHA"
+        ],
+        "superficie": 56785,
+        "bandera": "🇹🇬",
+        "cca2": "TG",
+        "cca3": "TGO"
+    },
+    {
+        "nombre": {
+            "comun": "Tailandia",
+            "oficial": "Reino de Tailandia"
+        },
+        "capital": [
+            "Bangkok"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [
+            "MMR",
+            "KHM",
+            "LAO",
+            "MYS"
+        ],
+        "superficie": 513120,
+        "bandera": "🇹🇭",
+        "cca2": "TH",
+        "cca3": "THA"
+    },
+    {
+        "nombre": {
+            "comun": "Tayikistán",
+            "oficial": "República de Tayikistán"
+        },
+        "capital": [
+            "Dusambe"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia central",
+        "limites": [
+            "AFG",
+            "CHN",
+            "KGZ",
+            "UZB"
+        ],
+        "superficie": 143100,
+        "bandera": "🇹🇯",
+        "cca2": "TJ",
+        "cca3": "TJK"
+    },
+    {
+        "nombre": {
+            "comun": "Turkmenistán",
+            "oficial": "Turkmenistán"
+        },
+        "capital": [
+            "Asjabad"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia central",
+        "limites": [
+            "AFG",
+            "IRN",
+            "KAZ",
+            "UZB"
+        ],
+        "superficie": 488100,
+        "bandera": "🇹🇲",
+        "cca2": "TM",
+        "cca3": "TKM"
+    },
+    {
+        "nombre": {
+            "comun": "Timor oriental",
+            "oficial": "República Democrática de Timor-Leste"
+        },
+        "capital": [
+            "Dili"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [
+            "IDN"
+        ],
+        "superficie": 14874,
+        "bandera": "🇹🇱",
+        "cca2": "TL",
+        "cca3": "TLS"
+    },
+    {
+        "nombre": {
+            "comun": "Tonga",
+            "oficial": "Reino de Tonga"
+        },
+        "capital": [
+            "Nukualofa"
+        ],
+        "continente": "Oceania",
+        "subregion": "Polinesia",
+        "limites": [],
+        "superficie": 747,
+        "bandera": "🇹🇴",
+        "cca2": "TO",
+        "cca3": "TON"
+    },
+    {
+        "nombre": {
+            "comun": "Trinidad y Tobago",
+            "oficial": "República de Trinidad y Tobago"
+        },
+        "capital": [
+            "Puerto España"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 5130,
+        "bandera": "🇹🇹",
+        "cca2": "TT",
+        "cca3": "TTO"
+    },
+    {
+        "nombre": {
+            "comun": "Túnez",
+            "oficial": "República de Túnez"
+        },
+        "capital": [
+            "Tunez"
+        ],
+        "continente": "África",
+        "subregion": "África del Norte",
+        "limites": [
+            "DZA",
+            "LBY"
+        ],
+        "superficie": 163610,
+        "bandera": "🇹🇳",
+        "cca2": "TN",
+        "cca3": "TUN"
+    },
+    {
+        "nombre": {
+            "comun": "Turquía",
+            "oficial": "República de Turquía"
+        },
+        "capital": [
+            "Ankara"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "ARM",
+            "AZE",
+            "BGR",
+            "GEO",
+            "GRC",
+            "IRN",
+            "IRQ",
+            "SYR"
+        ],
+        "superficie": 783562,
+        "bandera": "🇹🇷",
+        "cca2": "TR",
+        "cca3": "TUR"
+    },
+    {
+        "nombre": {
+            "comun": "Tuvalu",
+            "oficial": "Tuvalu"
+        },
+        "capital": [
+            "Funafuti"
+        ],
+        "continente": "Oceania",
+        "subregion": "Polinesia",
+        "limites": [],
+        "superficie": 26,
+        "bandera": "🇹🇻",
+        "cca2": "TV",
+        "cca3": "TUV"
+    },
+    {
+        "nombre": {
+            "comun": "Tanzania",
+            "oficial": "República Unida de Tanzania"
+        },
+        "capital": [
+            "Dodoma"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "BDI",
+            "COD",
+            "KEN",
+            "MWI",
+            "MOZ",
+            "RWA",
+            "UGA",
+            "ZMB"
+        ],
+        "superficie": 945087,
+        "bandera": "🇹🇿",
+        "cca2": "TZ",
+        "cca3": "TZA"
+    },
+    {
+        "nombre": {
+            "comun": "Uganda",
+            "oficial": "República de Uganda"
+        },
+        "capital": [
+            "Kampala"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "COD",
+            "KEN",
+            "RWA",
+            "SSD",
+            "TZA"
+        ],
+        "superficie": 241550,
+        "bandera": "🇺🇬",
+        "cca2": "UG",
+        "cca3": "UGA"
+    },
+    {
+        "nombre": {
+            "comun": "Ucrania",
+            "oficial": "Ucrania"
+        },
+        "capital": [
+            "Kiev"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa oriental",
+        "limites": [
+            "BLR",
+            "HUN",
+            "MDA",
+            "POL",
+            "ROU",
+            "RUS",
+            "SVK"
+        ],
+        "superficie": 603500,
+        "bandera": "🇺🇦",
+        "cca2": "UA",
+        "cca3": "UKR"
+    },
+    {
+        "nombre": {
+            "comun": "Uruguay",
+            "oficial": "República oriental del Uruguay"
+        },
+        "capital": [
+            "Montevideo"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "ARG",
+            "BRA"
+        ],
+        "superficie": 181034,
+        "bandera": "🇺🇾",
+        "cca2": "UY",
+        "cca3": "URY"
+    },
+    {
+        "nombre": {
+            "comun": "Estados Unidos",
+            "oficial": "Estados Unidos de América"
+        },
+        "capital": [
+            "Washington DC"
+        ],
+        "continente": "América",
+        "subregion": "Norteamérica",
+        "limites": [
+            "CAN",
+            "MEX"
+        ],
+        "superficie": 9372610,
+        "bandera": "🇺🇸",
+        "cca2": "US",
+        "cca3": "USA"
+    },
+    {
+        "nombre": {
+            "comun": "Uzbekistán",
+            "oficial": "República de Uzbekistán"
+        },
+        "capital": [
+            "Taskent"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia central",
+        "limites": [
+            "AFG",
+            "KAZ",
+            "KGZ",
+            "TJK",
+            "TKM"
+        ],
+        "superficie": 447400,
+        "bandera": "🇺🇿",
+        "cca2": "UZ",
+        "cca3": "UZB"
+    },
+    {
+        "nombre": {
+            "comun": "Vaticano",
+            "oficial": "Ciudad del Vaticano"
+        },
+        "capital": [
+            "Vaticano"
+        ],
+        "continente": "Europa",
+        "subregion": "Europa meridional",
+        "limites": [
+            "ITA"
+        ],
+        "superficie": 0.44,
+        "bandera": "🇻🇦",
+        "cca2": "VA",
+        "cca3": "VAT"
+    },
+    {
+        "nombre": {
+            "comun": "San Vicente y Granadinas",
+            "oficial": "San Vicente y las Granadinas"
+        },
+        "capital": [
+            "Kingston"
+        ],
+        "continente": "América",
+        "subregion": "Caribe",
+        "limites": [],
+        "superficie": 389,
+        "bandera": "🇻🇨",
+        "cca2": "VC",
+        "cca3": "VCT"
+    },
+    {
+        "nombre": {
+            "comun": "Venezuela",
+            "oficial": "República Bolivariana de Venezuela"
+        },
+        "capital": [
+            "Caracas"
+        ],
+        "continente": "América",
+        "subregion": "Sudamérica",
+        "limites": [
+            "BRA",
+            "COL",
+            "GUY"
+        ],
+        "superficie": 916445,
+        "bandera": "🇻🇪",
+        "cca2": "VE",
+        "cca3": "VEN"
+    },
+    {
+        "nombre": {
+            "comun": "Vietnam",
+            "oficial": "República Socialista de Vietnam"
+        },
+        "capital": [
+            "Hanoi"
+        ],
+        "continente": "Asia",
+        "subregion": "Sudeste asiático",
+        "limites": [
+            "KHM",
+            "CHN",
+            "LAO"
+        ],
+        "superficie": 331212,
+        "bandera": "🇻🇳",
+        "cca2": "VN",
+        "cca3": "VNM"
+    },
+    {
+        "nombre": {
+            "comun": "Vanuatu",
+            "oficial": "República de Vanuatu"
+        },
+        "capital": [
+            "Port Vila"
+        ],
+        "continente": "Oceania",
+        "subregion": "Melanesia",
+        "limites": [],
+        "superficie": 12189,
+        "bandera": "🇻🇺",
+        "cca2": "VU",
+        "cca3": "VUT"
+    },
+    {
+        "nombre": {
+            "comun": "Samoa",
+            "oficial": "Estado Independiente de Samoa"
+        },
+        "capital": [
+            "Apia"
+        ],
+        "continente": "Oceania",
+        "subregion": "Polinesia",
+        "limites": [],
+        "superficie": 2842,
+        "bandera": "🇼🇸",
+        "cca2": "WS",
+        "cca3": "WSM"
+    },
+    {
+        "nombre": {
+            "comun": "Yemen",
+            "oficial": "República de Yemen"
+        },
+        "capital": [
+            "Sana"
+        ],
+        "continente": "Asia",
+        "subregion": "Asia occidental",
+        "limites": [
+            "OMN",
+            "SAU"
+        ],
+        "superficie": 527968,
+        "bandera": "🇾🇪",
+        "cca2": "YE",
+        "cca3": "YEM"
+    },
+    {
+        "nombre": {
+            "comun": "Sudáfrica",
+            "oficial": "República de Sudáfrica"
+        },
+        "capital": [
+            "Pretoria",
+            "Bloemfontein",
+            "Ciudad del Cabo"
+        ],
+        "continente": "África",
+        "subregion": "África meridional",
+        "limites": [
+            "BWA",
+            "LSO",
+            "MOZ",
+            "NAM",
+            "SWZ",
+            "ZWE"
+        ],
+        "superficie": 1221037,
+        "bandera": "🇿🇦",
+        "cca2": "ZA",
+        "cca3": "ZAF"
+    },
+    {
+        "nombre": {
+            "comun": "Zambia",
+            "oficial": "República de Zambia"
+        },
+        "capital": [
+            "Lusaka"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "AGO",
+            "BWA",
+            "COD",
+            "MWI",
+            "MOZ",
+            "NAM",
+            "TZA",
+            "ZWE"
+        ],
+        "superficie": 752612,
+        "bandera": "🇿🇲",
+        "cca2": "ZM",
+        "cca3": "ZMB"
+    },
+    {
+        "nombre": {
+            "comun": "Zimbabue",
+            "oficial": "República de Zimbabue"
+        },
+        "capital": [
+            "Harare"
+        ],
+        "continente": "África",
+        "subregion": "África oriental",
+        "limites": [
+            "BWA",
+            "MOZ",
+            "ZAF",
+            "ZMB"
+        ],
+        "superficie": 390757,
+        "bandera": "🇿🇼",
+        "cca2": "ZW",
+        "cca3": "ZWE"
+    }
+]
