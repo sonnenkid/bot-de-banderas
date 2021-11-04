@@ -1,7 +1,7 @@
 {
-  "name": "flags-discord",
+  "name": "bot-de-banderas",
   "version": "1.0.0",
-  "description": "flags-discord",
+  "description": "Un bot de banderas para Discord",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

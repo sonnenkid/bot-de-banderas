@@ -1,4 +1,7 @@
 const BaseCommand = require('../utils/structures/BaseCommand');
+const { MessageEmbed, MessageAttachment } = require('discord.js');
+let paises = require('../../assets/paises/spanish.json');
+
 
 module.exports = class FlagCommand extends BaseCommand {
     constructor() {
@@ -18,7 +21,7 @@ module.exports = class FlagCommand extends BaseCommand {
 
         //Creacion y envio del embed
         try {
-            let File = new MessageAttachment(`C:/Users/fabri/Desktop/A/flags-discord/assets/banderas/${item.cca2}.png`);
+            let File = new MessageAttachment(`C:/Users/fabri/Desktop/Git/bot-de-banderas/assets/banderas/${item.cca2}.png`);
             let Embed = new MessageEmbed();
             Embed.setTitle('ADIVINA')
             Embed.setImage(`attachment://${item.cca2}.png`);
@@ -32,7 +35,7 @@ module.exports = class FlagCommand extends BaseCommand {
         await message.channel.awaitMessages({ filter, max: 1, time: 30000, errors: ['time'] })
             .then(async collected => {
                 try {
-                    let File = new MessageAttachment(`C:/Users/fabri/Desktop/A/flags-discord/assets/banderas/${item.cca2}.png`);
+                    let File = new MessageAttachment(`C:/Users/fabri/Desktop/Git/bot-de-banderas/assets/banderas/${item.cca2}.png`);
                     let Embed = new MessageEmbed();
                     Embed.setAuthor(`${collected.first().member.displayName} ha adivinado!`, collected.first().author.displayAvatarURL());
                     Embed.setTitle(`${respuestas[0]}`);
@@ -45,7 +48,7 @@ module.exports = class FlagCommand extends BaseCommand {
             })
             .catch(() => {
                 try {
-                    let File = new MessageAttachment(`C:/Users/fabri/Desktop/A/flags-discord/assets/banderas/${item.cca2}.png`);
+                    let File = new MessageAttachment(`C:/Users/fabri/Desktop/Git/bot-de-banderas/assets/banderas/${item.cca2}.png`);
                     let Embed = new MessageEmbed();
                     Embed.setTitle('Nadie ha adivinado');
                     Embed.setImage(`attachment://${item.cca2}.png`);
@@ -55,6 +58,5 @@ module.exports = class FlagCommand extends BaseCommand {
                     console.log(err);
                 }
             });
-        console.log(`Comando ${this.name} ejecutado`);
     }
 }
