@@ -49,16 +49,16 @@
             "english": ""
         },
         "IDIOMA_VALIDO": {
-            "spanish": "",
-            "english": ""
+            "spanish": "El idioma %REPL% no es válido.",
+            "english": "The language %REPL% is not valid."
         },
         "SINTAXIS": {
             "spanish": "",
             "english": ""
         },
         "IDIOMA_EN_USO": {
-            "spanish": "",
-            "english": ""
+            "spanish": "El idioma %REPL% ya está en uso.",
+            "english": "The language %REPL% is already in use."
         },
         "COMANDOS_DISPONIBLES": {
             "spanish": "",
@@ -76,9 +76,9 @@
             "spanish": "",
             "english": ""
         },
-        "PREFERENCES_UPDATED": {
-            "spanish": "",
-            "english": ""
+        "CAMBIOS_GUARDADOS": {
+            "spanish": "Se han guardado los cambios.",
+            "english": "Changes saved."
         },
         "ARGUMENTOS": {
             "spanish": "",

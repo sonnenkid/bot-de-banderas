@@ -1,14 +1,14 @@
 const BaseCommand = require('../utils/structures/BaseCommand');
 const { MessageEmbed, MessageAttachment } = require('discord.js');
 const { getBotMessages, getContinents } = require('../utils/Language');
-let paises = require('../../assets/paises/spanish.json');
 
 module.exports = class FlagCommand extends BaseCommand {
     constructor() {
         super('flag', ['f']);
     }
     async run(client, message, args) {
-        let language = "spanish";
+        let { language } = client.config.get(message.guild.id);
+        let paises = require(`../../assets/paises/${language}.json`);
         if (args.length) {
             let argumento = args[0].norm();
             let continentes = getContinents(language).map(c => { return c.norm() });

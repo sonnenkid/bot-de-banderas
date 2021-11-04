@@ -1,4 +1,4 @@
-const langFile = require('../../assets/idioma/localization.json');
+const langFile = require('./languages/localization.json');
 
 function getBotMessages(language, id, ...repl) {
     const { bot_messages } = langFile;
