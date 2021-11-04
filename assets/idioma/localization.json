@@ -1,0 +1,204 @@
+{
+    "bot_messages": {
+        "CONTINENTE_INVALIDO": {
+            "spanish": "El continente **%REPL%** no es válido.",
+            "english": "The continent **%REPL%** is not valid."
+        },
+        "ADIVINA": {
+            "spanish": "Adivina la bandera",
+            "english": "Guess the flag"
+        },
+        "HA_ADIVINADO": {
+            "spanish": "%REPL% ha adivinado!",
+            "english": "%REPL% have guessed!"
+        },
+        "NADIE_HA_ADIVINADO": {
+            "spanish": "Nadie ha adivinado...",
+            "english": "No one has guessed..."
+        },
+        "NOMBRE_OFICIAL": {
+            "spanish": "",
+            "english": ""
+        },
+        "CAPITAL": {
+            "spanish": "",
+            "english": ""
+        },
+        "CONTINENTE": {
+            "spanish": "",
+            "english": ""
+        },
+        "SUBCONTINENTE": {
+            "spanish": "",
+            "english": ""
+        },
+        "LIMITA_CON": {
+            "spanish": "",
+            "english": ""
+        },
+        "AREA": {
+            "spanish": "",
+            "english": ""
+        },
+        "INDEPENDIENTE": {
+            "spanish": "",
+            "english": ""
+        },
+        "PERMISOS_INSUFICIENTES": {
+            "spanish": "",
+            "english": ""
+        },
+        "IDIOMA_VALIDO": {
+            "spanish": "",
+            "english": ""
+        },
+        "SINTAXIS": {
+            "spanish": "",
+            "english": ""
+        },
+        "IDIOMA_EN_USO": {
+            "spanish": "",
+            "english": ""
+        },
+        "COMANDOS_DISPONIBLES": {
+            "spanish": "",
+            "english": ""
+        },
+        "MAS_INFO": {
+            "spanish": "",
+            "english": ""
+        },
+        "COMANDO": {
+            "spanish": "",
+            "english": ""
+        },
+        "RESPUESTA_CORRECTA": {
+            "spanish": "",
+            "english": ""
+        },
+        "PREFERENCES_UPDATED": {
+            "spanish": "",
+            "english": ""
+        },
+        "ARGUMENTOS": {
+            "spanish": "",
+            "english": ""
+        },
+        "ARGUMENTOS_OBLIGATORIOS": {
+            "spanish": "",
+            "english": ""
+        },
+        "ARGUMENTOS_OPCIONALES": {
+            "spanish": "",
+            "english": ""
+        },
+        "ARGUMENTOS_INNECESARIOS": {
+            "spanish": "",
+            "english": ""
+        },
+        "SI": {
+            "spanish": "",
+            "english": ""
+        },
+        "NO": {
+            "spanish": "",
+            "english": ""
+        },
+        "INFORMACION": {
+            "spanish": "",
+            "english": ""
+        },
+        "NO_POSEE": {
+            "spanish": "",
+            "english": ""
+        },
+        "CENTRO_AYUDA": {
+            "spanish": "",
+            "english": ""
+        },
+        "NOMBRE": {
+            "spanish": "",
+            "english": ""
+        },
+        "DESCRIPCION": {
+            "spanish": "",
+            "english": ""
+        },
+        "USO": {
+            "spanish": "",
+            "english": ""
+        },
+        "COMANDOS": {
+            "spanish": "",
+            "english": ""
+        }
+    },
+    "bot_commands": {
+        "language": {
+            "spanish": {
+                "description": "",
+                "arguments": ""
+            },
+            "english": {
+                "description": "",
+                "arguments": ""
+            }
+        },
+        "flag": {
+            "spanish": {
+                "description": "",
+                "arguments": ""
+            },
+            "english": {
+                "description": "",
+                "arguments": ""
+            }
+        },
+        "help": {
+            "spanish": {
+                "description": "",
+                "arguments": ""
+            },
+            "english": {
+                "description": "",
+                "arguments": ""
+            }
+        },
+        "country": {
+            "spanish": {
+                "description": "",
+                "arguments": ""
+            },
+            "english": {
+                "description": "",
+                "arguments": ""
+            }
+        },
+        "deletemessages": {
+            "spanish": {
+                "description": "",
+                "arguments": ""
+            },
+            "english": {
+                "description": "",
+                "arguments": ""
+            }
+        }
+    },
+    "continents": {
+        "spanish": [
+            "america",
+            "asia",
+            "africa",
+            "oceania",
+            "europa"
+        ],
+        "english": [
+            "americas",
+            "asia",
+            "africa",
+            "oceania",
+            "europe"
+        ]
+    }
+}

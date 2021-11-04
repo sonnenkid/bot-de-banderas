@@ -1,7 +1,6 @@
 module.exports = class BaseCommand {
-    constructor(name, aliases, description) {
+    constructor(name, aliases) {
         this.name = name;
         this.aliases = aliases;
-        this.description = description;
     }
 }
