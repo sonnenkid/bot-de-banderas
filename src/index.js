@@ -1,7 +1,7 @@
 require('dotenv').config();
-const Client = require('./src/utils/structures/Client');
+const Client = require('./utils/structures/Client');
 const client = new Client();
-const { registerCommands, registerEvents } = require('./src/utils/Register');
+const { registerCommands, registerEvents } = require('./utils/Register');
 const unorm = require('unorm');
 const combining = /[\u0300-\u036F]/g;
 
