@@ -1,204 +1,90 @@
 {
-    "bot_messages": {
-        "CONTINENTE_INVALIDO": {
-            "spanish": "El continente **%REPL%** no es válido.",
-            "english": "The continent **%REPL%** is not valid."
+    "spanish": {
+        "bot_messages": {
+            "CONTINENTE_INVALIDO": "El continente ingresado (*%REPL%*) es inválido.",
+            "PERMISOS_INSUFICIENTES": "",
+            "IDIOMA_INVALIDO": "El idioma ingresado (*%REPL%*) es inválido.",
+            "IDIOMA_EN_USO": "El idioma ingresado (*%REPL%*) ya está en uso.",
+            "IDIOMA_ACTUAL": "El idioma actual del servidor es *%REPL%*",
+            "CAMBIOS_GUARDADOS": "Se han guardado los cambios 😉"
         },
-        "ADIVINA": {
-            "spanish": "Adivina la bandera",
-            "english": "Guess the flag"
+        "bot_commands": {
+            "language": {
+                "description": "",
+                "arguments": ""
+            },
+            "flag": {
+                "description": "",
+                "arguments": ""
+            },
+            "help": {
+                "description": "",
+                "arguments": ""
+            },
+            "country": {
+                "description": "",
+                "arguments": ""
+            },
+            "deletemessages": {
+                "description": "",
+                "arguments": ""
+            }
         },
-        "HA_ADIVINADO": {
-            "spanish": "%REPL% ha adivinado!",
-            "english": "%REPL% have guessed!"
+        "general_text": {
+            "ADIVINA": "Adivina la bandera",
+            "HA_ADIVINADO": "%REPL% ha adivinado!",
+            "NADIE_HA_ADIVINADO": "Nadie ha adivinado 😓"
         },
-        "NADIE_HA_ADIVINADO": {
-            "spanish": "Nadie ha adivinado...",
-            "english": "No one has guessed..."
-        },
-        "NOMBRE_OFICIAL": {
-            "spanish": "",
-            "english": ""
-        },
-        "CAPITAL": {
-            "spanish": "",
-            "english": ""
-        },
-        "CONTINENTE": {
-            "spanish": "",
-            "english": ""
-        },
-        "SUBCONTINENTE": {
-            "spanish": "",
-            "english": ""
-        },
-        "LIMITA_CON": {
-            "spanish": "",
-            "english": ""
-        },
-        "AREA": {
-            "spanish": "",
-            "english": ""
-        },
-        "INDEPENDIENTE": {
-            "spanish": "",
-            "english": ""
-        },
-        "PERMISOS_INSUFICIENTES": {
-            "spanish": "",
-            "english": ""
-        },
-        "IDIOMA_VALIDO": {
-            "spanish": "El idioma %REPL% no es válido.",
-            "english": "The language %REPL% is not valid."
-        },
-        "SINTAXIS": {
-            "spanish": "",
-            "english": ""
-        },
-        "IDIOMA_EN_USO": {
-            "spanish": "El idioma %REPL% ya está en uso.",
-            "english": "The language %REPL% is already in use."
-        },
-        "COMANDOS_DISPONIBLES": {
-            "spanish": "",
-            "english": ""
-        },
-        "MAS_INFO": {
-            "spanish": "",
-            "english": ""
-        },
-        "COMANDO": {
-            "spanish": "",
-            "english": ""
-        },
-        "RESPUESTA_CORRECTA": {
-            "spanish": "",
-            "english": ""
-        },
-        "CAMBIOS_GUARDADOS": {
-            "spanish": "Se han guardado los cambios.",
-            "english": "Changes saved."
-        },
-        "ARGUMENTOS": {
-            "spanish": "",
-            "english": ""
-        },
-        "ARGUMENTOS_OBLIGATORIOS": {
-            "spanish": "",
-            "english": ""
-        },
-        "ARGUMENTOS_OPCIONALES": {
-            "spanish": "",
-            "english": ""
-        },
-        "ARGUMENTOS_INNECESARIOS": {
-            "spanish": "",
-            "english": ""
-        },
-        "SI": {
-            "spanish": "",
-            "english": ""
-        },
-        "NO": {
-            "spanish": "",
-            "english": ""
-        },
-        "INFORMACION": {
-            "spanish": "",
-            "english": ""
-        },
-        "NO_POSEE": {
-            "spanish": "",
-            "english": ""
-        },
-        "CENTRO_AYUDA": {
-            "spanish": "",
-            "english": ""
-        },
-        "NOMBRE": {
-            "spanish": "",
-            "english": ""
-        },
-        "DESCRIPCION": {
-            "spanish": "",
-            "english": ""
-        },
-        "USO": {
-            "spanish": "",
-            "english": ""
-        },
-        "COMANDOS": {
-            "spanish": "",
-            "english": ""
-        }
+        "continents": [
+            "América",
+            "Asia",
+            "África",
+            "Oceanía",
+            "Europa"
+        ]
     },
-    "bot_commands": {
-        "language": {
-            "spanish": {
+    "english": {
+        "bot_messages": {
+            "CONTINENTE_INVALIDO": "The entered continent (*%REPL%*) is not valid.",
+            "PERMISOS_INSUFICIENTES": "",
+            "IDIOMA_INVALIDO": "The entered language (*%REPL%*) is not valid.",
+            "IDIOMA_EN_USO": "Language *%REPL%* is already in use.",
+            "IDIOMA_ACTUAL": "The current server language is *%REPL%*",
+            "CAMBIOS_GUARDADOS": "Changes saved 😉"
+        },
+        "bot_commands": {
+            "language": {
                 "description": "",
                 "arguments": ""
             },
-            "english": {
+            "flag": {
+                "description": "",
+                "arguments": ""
+            },
+            "help": {
+                "description": "",
+                "arguments": ""
+            },
+            "country": {
+                "description": "",
+                "arguments": ""
+            },
+            "deletemessages": {
                 "description": "",
                 "arguments": ""
             }
         },
-        "flag": {
-            "spanish": {
-                "description": "",
-                "arguments": ""
-            },
-            "english": {
-                "description": "",
-                "arguments": ""
-            }
+        "general_text": {
+            "ADIVINA": "Guess the flag",
+            "HA_ADIVINADO": "%REPL% have guessed!",
+            "NADIE_HA_ADIVINADO": "No one has guessed 😓"
         },
-        "help": {
-            "spanish": {
-                "description": "",
-                "arguments": ""
-            },
-            "english": {
-                "description": "",
-                "arguments": ""
-            }
-        },
-        "country": {
-            "spanish": {
-                "description": "",
-                "arguments": ""
-            },
-            "english": {
-                "description": "",
-                "arguments": ""
-            }
-        },
-        "deletemessages": {
-            "spanish": {
-                "description": "",
-                "arguments": ""
-            },
-            "english": {
-                "description": "",
-                "arguments": ""
-            }
-        }
-    },
-    "continents": {
-        "spanish": [
-            "america",
-            "asia",
-            "africa",
-            "oceania",
-            "europa"
-        ],
-        "english": [
-            "americas",
-            "asia",
-            "africa",
-            "oceania",
-            "europe"
+        "continents": [
+            "Americas",
+            "Asia",
+            "Africa",
+            "Oceania",
+            "Europe"
         ]
     }
 }
