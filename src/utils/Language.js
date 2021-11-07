@@ -1,4 +1,4 @@
-const file = require('./languages/localization.json');
+const file = require('./localization/text/localization.json');
 
 function getBotMessages(language, id, ...repl) {
     const { bot_messages } = file[language];
@@ -30,15 +30,9 @@ function getGeneralText(language, id, ...repl) {
     return general_text[id];
 }
 
-function getCountries(language) {
-    //
-    let paises = require(`../../assets/paises/${language}.json`);
-    return paises;
-}
-
 function getContinents(language) {
     const { continents } = file[language];
     return continents;
 }
 
-module.exports = { getBotMessages, getBotCommands, getGeneralText, getCountries, getContinents };
+module.exports = { getBotMessages, getBotCommands, getGeneralText, getContinents };

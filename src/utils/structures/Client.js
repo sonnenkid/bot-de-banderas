@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const Intents = Discord.Intents;
 
 module.exports = class Client extends Discord.Client {
-    constructor(options) {
+    constructor() {
         super({
             intents: [
                 Intents.FLAGS.GUILDS,
@@ -10,6 +10,7 @@ module.exports = class Client extends Discord.Client {
             ]
         });
         this.commands = new Discord.Collection();
-        this.aliases = new Discord.Collection();
+        this.config = new Discord.Collection();
+        this.languages = new Discord.Collection();
     }
 }

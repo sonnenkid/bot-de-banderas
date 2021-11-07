@@ -13,7 +13,7 @@ async function registerCommands(client, dir) {
                 const command = new Command();
                 client.commands.set(command.name, command);
                 if (command.aliases) {
-                    command.aliases.forEach(alias => client.aliases.set(alias, command));
+                    command.aliases.forEach(alias => client.commands.set(alias, command));
                 }
             }
             catch (err) {
@@ -40,4 +40,13 @@ async function registerEvents(client, dir) {
     }
 }
 
-module.exports = { registerCommands, registerEvents };
+async function registerLanguages(client, dir) {
+    const filePath = path.join(__dirname, dir);
+    const languageFiles = fs.readdirSync(filePath).filter(file => file.endsWith('.json'));
+    for (const file of languageFiles) {
+        const Language = require(path.join(filePath, file));
+        client.languages.set((file.split('.'))[0], Language);
+    }
+}
+
+module.exports = { registerCommands, registerEvents, registerLanguages };
