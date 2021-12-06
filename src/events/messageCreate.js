@@ -1,4 +1,5 @@
 const BaseEvent = require('../utils/structures/BaseEvent');
+const StateManager = require('../utils/StateManager');
 
 module.exports = class MessageCreateEvent extends BaseEvent {
     constructor() {

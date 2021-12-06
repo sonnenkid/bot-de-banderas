@@ -1,0 +1,44 @@
+{
+    "bot_messages": {
+        "CONTINENTE_INVALIDO": "The entered continent (*%REPL%*) is not valid.",
+        "PERMISOS_INSUFICIENTES": "",
+        "IDIOMA_INVALIDO": "The entered language (*%REPL%*) is not valid.",
+        "IDIOMA_EN_USO": "Language *%REPL%* is already in use.",
+        "IDIOMA_ACTUAL": "The current server language is *%REPL%*",
+        "CAMBIOS_GUARDADOS": "Changes saved 😉"
+    },
+    "bot_commands": {
+        "language": {
+            "description": "",
+            "arguments": ""
+        },
+        "flag": {
+            "description": "",
+            "arguments": ""
+        },
+        "help": {
+            "description": "",
+            "arguments": ""
+        },
+        "country": {
+            "description": "",
+            "arguments": ""
+        },
+        "deletemessages": {
+            "description": "",
+            "arguments": ""
+        }
+    },
+    "general_text": {
+        "ADIVINA": "Guess the flag",
+        "HA_ADIVINADO": "%REPL% have guessed!",
+        "NADIE_HA_ADIVINADO": "No one has guessed 😓"
+    },
+    "continents": [
+        "Americas",
+        "Asia",
+        "Africa",
+        "Oceania",
+        "Europe"
+    ]
+}

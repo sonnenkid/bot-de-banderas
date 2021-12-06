@@ -40,13 +40,4 @@ async function registerEvents(client, dir) {
     }
 }
 
-async function registerLanguages(client, dir) {
-    const filePath = path.join(__dirname, dir);
-    const languageFiles = fs.readdirSync(filePath).filter(file => file.endsWith('.json'));
-    for (const file of languageFiles) {
-        const Language = require(path.join(filePath, file));
-        client.languages.set((file.split('.'))[0], Language);
-    }
-}
-
-module.exports = { registerCommands, registerEvents, registerLanguages };
+module.exports = { registerCommands, registerEvents };
