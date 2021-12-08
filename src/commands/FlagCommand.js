@@ -7,7 +7,7 @@ module.exports = class FlagCommand extends BaseCommand {
         super('flag', ['f']);
     }
     async run(client, message, args) {
-        const { language } = client.config.get(message.guild.id);
+        const { language } = message.guild;
         let paises = require(`../utils/localization/${language}/countries.json`);
         if (args.length) {
             let argumento = args[0].norm();

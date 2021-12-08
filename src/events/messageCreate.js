@@ -8,7 +8,7 @@ module.exports = class MessageCreateEvent extends BaseEvent {
     async run(client, message) {
         if (message.author.bot) return;
         if (message.content.startsWith('$')) {
-            const [commandName, ...commandArgs] = message.content.toLowerCase().slice(1).split(/\s+/);
+            const [commandName, ...commandArgs] = message.content.norm().slice(1).split(/\s+/);
             const command = client.commands.get(commandName);
             if (command) {
                 command.run(client, message, commandArgs);
